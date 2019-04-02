@@ -11,7 +11,9 @@
   <img src="https://img.shields.io/npm/dt/ngx-loader-indicator.svg" alt="npm downloads" >
 </a>
 [![npm](https://img.shields.io/npm/dm/ngx-loader-indicator.svg)](https://www.npmjs.com/package/ngx-loader-indicator)
-
+[![GitHub contributors](https://img.shields.io/github/contributors/JSDaddy/ngx-loader-indicator.svg?style=flat-square)](https://github.com/JSDaddy/ngx-loader-indicator)
+[![GitHub stars](https://img.shields.io/github/stars/JSDaddy/ngx-loader-indicator.svg?label=GitHub%20Stars&style=flat-square)](https://github.com/JSDaddy/ngx-loader-indicator)
+<br>
 You can also try our NGX MASK [Download](https://www.npmjs.com/package/ngx-mask) it.
 You can also try our NGX COPYPASTE [Download](https://www.npmjs.com/package/ngx-copypaste) it.
 ### You can see the full [documentation](https://jsdaddy.github.io/ngx-mask-page/) with examples.
