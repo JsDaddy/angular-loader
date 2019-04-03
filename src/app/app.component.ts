@@ -23,6 +23,7 @@ export class AppComponent {
     });
   }
 
+  // tslint:disable-next-line:no-any
   public login(data: any): any {
     this.isLoading = true;
     return of({}).pipe(delay(3000)).subscribe(() => {

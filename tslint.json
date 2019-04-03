@@ -132,7 +132,7 @@
         ]
       }
     ],
-    "no-any": false,
+    "no-any": true,
     "no-empty-interface": true,
     "no-internal-module": true,
     "no-var-requires": false,
